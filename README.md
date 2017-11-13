@@ -40,6 +40,7 @@ will produce...
   - [news.py](https://github.com/klazich/news/wiki/API#newspy)
   - [utils_news.py](https://github.com/klazich/news/wiki/API#utils_newspy)
   - [interface.py](https://github.com/klazich/news/wiki/API#interfacepy)
+- **[Views](https://github.com/klazich/news/wiki/PSQL-views)**
 
 <hr>
 
