@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='news',
-      version='1.0',
+      version='1.1',
       py_modules=['news'],
       install_requires=['click',
                         'psycopg2',
