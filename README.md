@@ -41,6 +41,7 @@ will produce...
   - [utils_news.py](https://github.com/klazich/news/wiki/API#utils_newspy)
   - [interface.py](https://github.com/klazich/news/wiki/API#interfacepy)
 - **[Views](https://github.com/klazich/news/wiki/PSQL-views)**
+- **[Sample Output](https://github.com/klazich/news/wiki/Sample-Output)
 
 <hr>
 

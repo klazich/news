@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!python3
 
 from os import path
 import click
