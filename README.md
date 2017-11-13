@@ -36,10 +36,10 @@ will produce...
 - **[How to Install](#how-to-install)**
   - [Requirements](#requirements)
 - **[Usage](#usage)**
-- **[API](https://github.com/klazich/news/wiki#api)**
-  - [news.py](https://github.com/klazich/news/wiki#newspy)
-  - [utils_news.py](https://github.com/klazich/news/wiki#utils_newspy)
-  - [interface.py](https://github.com/klazich/news/wiki#interfacepy)
+- **[API](https://github.com/klazich/news/wiki/API#newspy)**
+  - [news.py](https://github.com/klazich/news/wiki/API#newspy)
+  - [utils_news.py](https://github.com/klazich/news/wiki/API#utils_newspy)
+  - [interface.py](https://github.com/klazich/news/wiki/API#interfacepy)
 
 <hr>
 
