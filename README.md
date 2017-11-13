@@ -75,6 +75,10 @@ $ cd /vagrant/news
 ```
 $ pip install -e .
 ```
+You may have to run it under sudo:
+```
+$ sudo pip install -e .
+```
 
 ## [Usage](#usage)
 `question [--list-only | -l] [--views | -v] [<number>]`
