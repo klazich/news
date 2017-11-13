@@ -32,9 +32,7 @@ QUERIES = {'1': QUERY_1,
 
 
 def format_query(string):
-    """psql syntax highlighting for printing queries.
-    :rtype: str
-    """
+    """psql syntax highlighting for printing queries."""
     string_list = string.split('\n')
     code = '\n'.join('    ' + line for line in string_list)
     return highlight(code, PostgresLexer(), TerminalTrueColorFormatter())
